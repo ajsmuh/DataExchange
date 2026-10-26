@@ -14,24 +14,24 @@
     Another quote
 </Quote>
 
-<Quote author="Albert Einstein">
-    Imagination is more important than knowledge.
+<Quote author="Serina Guri">
+    You are worth it.
 </Quote>
 
-<Quote author="Oscar Wilde">
-    Be yourself; everyone else is already taken.
+<Quote author="Luigj Shala">
+    Love yourself.
 </Quote>
 
-<Quote author="Nelson Mandela">
-    It always seems impossible until it's done.
+<Quote author="Sara Zaganjori">
+    You can do it, believe in yourself.
 </Quote>
 
-<Quote author="Walt Disney">
-    If you can dream it, you can do it.
+<Quote author="Edona Peraj">
+    Choose your dreams.
 </Quote>
 
-<Quote author="Maya Angelou">
-    Nothing will work unless you do.
+<Quote author="Hermes Zalla">
+    Mind your business, always.
 </Quote>
 
 </div>
